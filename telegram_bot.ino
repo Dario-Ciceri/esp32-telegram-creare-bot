@@ -72,5 +72,4 @@ void loop() {
     }
     ultima_chiamata = millis(); //aggiorna l'ultimo periodo in millisecondi in cui sono state eseguite le istruzioni all'interno del ciclo while
   }
-  }
 }
